@@ -33,6 +33,32 @@
           "PackageID": "com.yangjiii.applesymbols1.0"
       },
 	  
+	  {
+          "Name": "LS UI YangJiii",
+          "Description": "@duongduong0908",
+          "Author": {
+              "Label": "YangJiii",
+              "Links": [
+                  {
+                      "Label": "YangJiii",
+                      "Link": "https://twitter.com/duongduong0908"
+                  }
+              ]
+          },
+          "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/Repo/uilsyangjiii.jpg",
+          "Category": "LS UI",
+          "Caption": "Change camera and flash icon",
+          "Screenshot": "https://github.com/YangJiiii/repomdc/raw/main/Images/Repo/uilsyangjiii.jpg",
+          "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.yangjiuils.misaka",
+                  "Description": "Change camera and flash icon"
+              }
+          ],
+          "PackageID": "com.yangjiii.yangjiuils"
+      },
+	  
 	  
 	     ]
 }
