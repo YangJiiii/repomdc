@@ -35,29 +35,32 @@
             "PackageID": "com.yangjiii.applesymbols1.0"
         },
         {
-            "Name": "MobileGestaltRestore",
-            "Description": "Restore your MobileGestaltCache",
+            "Name": "LS UI YangJiii",
+            "Description": "Change camera and flash icon",
             "Author": {
-                "Label": "fall20c",
+                "Label": "YangJiii",
                 "Links": [
                     {
-                        "Label": "fall20c",
-                        "Link": "https://twitter.com/fall20c"
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
                     }
                 ]
             },
-            "Icon": null,
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/uilsyangjiii.jpg",
+            "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
             "Category": null,
-            "Caption": "After apply & respring & reboot, you can restore your MobileGestaltCache",
-            "Screenshot": null,
-            "Releases": [
-                {
-                    "Version": "0.1",
-                    "Package": "https://cdn.discordapp.com/attachments/1083917960046985296/1088526788818374666/ResPM.misaka",
-                    "Description": null
-                }
+            "Caption": "Change camera and flash icon",
+            "Screenshot": [
+                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/uilsyangjiii.jpg"
             ],
-            "PackageID": "com.fall20c.MGCRestore"
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.yangjiuils.misaka",
+                  "Description": "Change camera and flash icon"
+              }
+            ],
+            "PackageID": "com.yangjiii.yangjiuils"
         }
     ]
 }
