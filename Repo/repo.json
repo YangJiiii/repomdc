@@ -45,10 +45,10 @@
                   }
               ]
           },
-          "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/Repo/uilsyangjiii.jpg",
+          "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/uilsyangjiii.jpg",
           "Category": "LS UI",
           "Caption": "Change camera and flash icon",
-          "Screenshot": "https://github.com/YangJiiii/repomdc/raw/main/Images/Repo/uilsyangjiii.jpg",
+          "Screenshot": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/uilsyangjiii.jpg",
           "Releases": [
               {
                   "Version": "1.0",
