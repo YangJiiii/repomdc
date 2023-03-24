@@ -9,7 +9,7 @@
 	
 	{
           "Name": "YangJiii Tester",
-          "Description": "Test1",
+          "Description": "@duongduong0908",
           "Author": {
               "Label": "YangJiii",
               "Links": [
@@ -20,17 +20,17 @@
               ]
           },
           "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/Avatar/Avatar.jpg",
-          "Category": "https://github.com/YangJiiii/repomdc/raw/main/Images/Banner/Banner.jpg",
-          "Caption": "YangJiii Tester1",
+          "Category": "Font",
+          "Caption": "Fonts Apple Symbols. change character support MDC devices",
           "Screenshot": null,
           "Releases": [
               {
-                  "Version": "0.1",
-                  "Package": "",
-                  "Description": null
+                  "Version": "1.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.applesymbols1.0.misaka",
+                  "Description": "Fonts Apple Symbols. change character support MDC . devices"
               }
           ],
-          "PackageID": "com. ."
+          "PackageID": "com.yangjiii.applesymbols1.0"
       },
 	  
 	  
