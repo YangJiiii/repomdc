@@ -1,0 +1,38 @@
+{
+    "RepositoryName": "YangJiii Repo",
+    "RepositoryDescription": "YangJiii's MacDirtyCow repo",
+    "RepositoryAuthor": "YangJiii",
+    "RepositoryIcon": "https://cdn.discordapp.com/attachments/813615730473304064/1085151394870341642/IMG_2376.jpg",
+    "RepositoryWebsite": "https://github.com/hanabiADHD/hanabiRepo",
+    "DefaultHeaderImage": "https://cdn.discordapp.com/attachments/1079878178035736656/1083411883912081479/04F63A18-CFCD-4EB8-BDAA-8CAFACB38BFA.jpg",
+    "RepositoryContents": [
+	
+	{
+          "Name": "YangJiii Tester",
+          "Description": "Test1",
+          "Author": {
+              "Label": "YangJiii",
+              "Links": [
+                  {
+                      "Label": "YangJiii",
+                      "Link": "https://twitter.com/duongduong0908"
+                  }
+              ]
+          },
+          "Icon": null,
+          "Category": null,
+          "Caption": "YangJiii Tester1",
+          "Screenshot": null,
+          "Releases": [
+              {
+                  "Version": "0.1",
+                  "Package": "",
+                  "Description": null
+              }
+          ],
+          "PackageID": "com. ."
+      },
+	  
+	  
+	     ]
+}
