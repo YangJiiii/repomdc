@@ -76,19 +76,47 @@
             },
             "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/logofontclockgroup1.jpg",
             "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
-            "Category": "LS UI",
-            "Caption": "Change clock font on ios 16<p>Name Font:<p>Scritus Outline<p>Along Sans<p>Major<p>Scritus<p>Samsung Outline<p>Google Sans<p>Samsung<p>Space Sip ",
+            "Category": "Font",
+            "Caption": "Change clock font on ios 16",
             "Screenshot": [
                 "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/fontclockgroup1.jpg"
             ],
 			"Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.yangjiuils.misaka",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.lsclockios16.1.0.misaka",
                   "Description": "Change clock font on ios 16"
               }
             ],
             "PackageID": "com.yangjiii.lsclockios16.1.0"
+        },
+		{
+            "Name": "Radar",
+            "Description": "Show internal on settings",
+            "Author": {
+                "Label": "YangJiii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/avatarradar.jpg",
+            "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
+            "Category": "Settings",
+            "Caption": "Show internal on settings",
+            "Screenshot": [
+                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/radar.jpg"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.radar.misaka",
+                  "Description": "Show internal on settings"
+              }
+            ],
+            "PackageID": "com.yangjiii.radar"
         }
 		
     ]
