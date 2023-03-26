@@ -130,9 +130,9 @@
                     }
                 ]
             },
-            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/avatarradar.jpg",
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/fontclock.jpg",
             "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
-            "Category": "Settings",
+            "Category": "Font",
             "Caption": "Change clock font on ios 15",
             "Screenshot": [
                 "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/radar.jpg"
