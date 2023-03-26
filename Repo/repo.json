@@ -117,6 +117,34 @@
               }
             ],
             "PackageID": "com.yangjiii.radar"
+        },
+		{
+            "Name": "Font Clock Group 1 ( IOS 15 )",
+            "Description": "Change clock font on ios 15",
+            "Author": {
+                "Label": "YangJiii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/avatarradar.jpg",
+            "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
+            "Category": "Settings",
+            "Caption": "Change clock font on ios 15",
+            "Screenshot": [
+                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/radar.jpg"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.fontclock15.1.0.misaka",
+                  "Description": "Change clock font on ios 15"
+              }
+            ],
+            "PackageID": "com.yangjiii.fontclock15.1.0"
         }
 		
     ]
