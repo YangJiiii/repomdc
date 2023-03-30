@@ -145,6 +145,34 @@
               }
             ],
             "PackageID": "com.yangjiii.fontclock15.1.0"
+        },
+		{
+            "Name": "Usagi Passcode",
+            "Description": "Change your passcode",
+            "Author": {
+                "Label": "YangJiii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    }
+                ]
+            },
+            "Icon": "https://i.kym-cdn.com/photos/images/original/002/083/322/038.gif",
+            "HeaderImage": "https://i.pinimg.com/originals/5a/b0/67/5ab06768b12e2a87a6264bd385ed5dd3.gif",
+            "Category": "Theme",
+            "Caption": "Change your passcode",
+            "Screenshot": [
+                "https://cdn.discordapp.com/attachments/1076484358774472777/1076484359676243968/IMG_0808.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.usagipasscode.misaka",
+                  "Description": "Change your passcode"
+              }
+            ],
+            "PackageID": "com.yangjiii.usagipasscode"
         }
 		
     ]
