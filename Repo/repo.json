@@ -195,16 +195,16 @@
             "Category": "LS UI",
             "Caption": "Change camera and flash icon",
             "Screenshot": [
-                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/lsuiyangjiii1.jpg"
+                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/lsuinayan.jpg"
             ],
 			"Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.yangjiuils.misaka",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.nayanlsui.misaka",
                   "Description": "Change camera and flash icon"
               }
             ],
-            "PackageID": "com.yangjiii.yangjiuils"
+            "PackageID": "com.yangjiii.nayanlsui"
         }
 		
     ]
