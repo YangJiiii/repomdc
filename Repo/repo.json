@@ -205,6 +205,34 @@
               }
             ],
             "PackageID": "com.yangjiii.nayanlsui"
+        },
+		{
+            "Name": "Hide Dock",
+            "Description": "Hide the Dock",
+            "Author": {
+                "Label": "YangJiii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/hidedock.jpg",
+            "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
+            "Category": "Settings",
+            "Caption": "Hide the Dock",
+            "Screenshot": [
+                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/hidedock.jpg"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.hidedock.misaka",
+                  "Description": "Hide the Dock"
+              }
+            ],
+            "PackageID": "com.yangjiii.hidedock"
         }
 		
     ]
