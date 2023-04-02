@@ -139,7 +139,7 @@
 			"MinIOSVersion": "15.0",
             "MaxIOSVersion": "15.7.1",
             "Screenshot": [
-                ""
+                null
             ],
 			"Releases": [
               {
@@ -218,12 +218,12 @@
                     }
                 ]
             },
-            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/hidedock.jpg",
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/hidedock.png",
             "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
             "Category": "Settings",
             "Caption": "Hide the Dock",
             "Screenshot": [
-                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/hidedock.jpg"
+                null
             ],
 			"Releases": [
               {
