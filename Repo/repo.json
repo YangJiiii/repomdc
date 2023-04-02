@@ -46,7 +46,7 @@
                     }
                 ]
             },
-            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/uilsyangjiii.jpg",
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/lsui.png",
             "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
             "Category": "LS UI",
             "Caption": "Change camera and flash icon",
@@ -78,6 +78,8 @@
             "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
             "Category": "Font",
             "Caption": "Change clock font on ios 16",
+			"MinIOSVersion": "16.0",
+            "MaxIOSVersion": "16.1.2",
             "Screenshot": [
                 "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/fontclockgroup1.jpg"
             ],
@@ -134,8 +136,10 @@
             "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
             "Category": "Font",
             "Caption": "Change clock font on ios 15",
+			"MinIOSVersion": "15.0",
+            "MaxIOSVersion": "15.7.1",
             "Screenshot": [
-                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/radar.jpg"
+                ""
             ],
 			"Releases": [
               {
@@ -173,6 +177,34 @@
               }
             ],
             "PackageID": "com.yangjiii.usagipasscode"
+        },
+		{
+            "Name": "LS UI NaYan",
+            "Description": "Change camera and flash icon",
+            "Author": {
+                "Label": "YangJiii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/lsui.png",
+            "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
+            "Category": "LS UI",
+            "Caption": "Change camera and flash icon",
+            "Screenshot": [
+                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/lsuiyangjiii1.jpg"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.yangjiuils.misaka",
+                  "Description": "Change camera and flash icon"
+              }
+            ],
+            "PackageID": "com.yangjiii.yangjiuils"
         }
 		
     ]
