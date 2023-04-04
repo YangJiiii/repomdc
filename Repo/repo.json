@@ -283,6 +283,34 @@
               }
             ],
             "PackageID": "com.yangjiii.astronautwhite"
+        },
+		{
+            "Name": "Big Sur Clock Icon",
+            "Description": "Change your clock icon",
+            "Author": {
+                "Label": "YangJiii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/other.png",
+            "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
+            "Category": "LockScreen",
+            "Caption": "Change your clock icon",
+            "Screenshot": [
+                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/clockiconbigsur.jpg"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.bigsurclockicon.misaka",
+                  "Description": "Change your clock icon"
+              }
+            ],
+            "PackageID": "com.yangjiii.bigsurclockicon"
         }
 		
 		
