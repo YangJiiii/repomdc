@@ -337,7 +337,7 @@
               {
                   "Version": "1.0",
                   "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.wifilist.misaka",
-                  "Description": "Instructions.after downloading the tweak. Turn it on and reboot the device (no respring). After reboot. Go back to the misaka app. turn on the tweak again. go to wifi settings it will show. then you can apply other tweaks and respring normally. (not tested on cert, works fine on trollstore, altstore, sidestore )"
+                  "Description": "Tutorial : https://twitter.com/duongduong0908/status/1643302253334499329"
               }
             ],
             "PackageID": "com.yangjiii.wifilist"
