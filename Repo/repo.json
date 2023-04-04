@@ -311,6 +311,36 @@
               }
             ],
             "PackageID": "com.yangjiii.bigsurclockicon"
+        },
+		{
+            "Name": "Wifi List",
+            "Description": "Show the password wifi was connect",
+            "Author": {
+                "Label": "YangJiii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/avatarradar.jpg",
+            "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
+            "Category": "Settings",
+            "Caption": "Show the password wifi was connect",
+			"MinIOSVersion": "15.0",
+            "MaxIOSVersion": "15.7.1",
+            "Screenshot": [
+                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/wifilist2.jpg","https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/wifilist1.jpg"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.wifilist.misaka",
+                  "Description": "Instructions.after downloading the tweak. Turn it on and reboot the device (no respring). After reboot. Go back to the misaka app. turn on the tweak again. go to wifi settings it will show. then you can apply other tweaks and respring normally. (not tested on cert, works fine on trollstore, altstore, sidestore )"
+              }
+            ],
+            "PackageID": "com.yangjiii.wifilist"
         }
 		
 		
