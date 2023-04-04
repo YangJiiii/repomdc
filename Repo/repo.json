@@ -327,11 +327,7 @@
             "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/avatarradar.jpg",
             "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
             "Category": "Settings",
-            "Caption": "Instruct
-/n - after downloading the tweak. Turn it on and reboot the device (no respring)
-/n - after reboot. Go back to the misaka app. re-enable the tweak again. go to wifi settings it will show
-/n - then you can apply other tweaks and respring normally
-/n (not tested on cert, works fine on trollstore, altstore, sidestore )",
+            "Caption": "Instructions/n-after downloading the tweak. turn it on and reboot (no respring )/n - after reboot. Go back to the misaka app. re-enable the tweak again. going to wifi settings should show /n - then you can apply other tweaks and respring normally /n (haven't tested on cert, works fine on trollstore, altstore, sidestore )",
 			"MinIOSVersion": "15.0",
             "MaxIOSVersion": "15.7.1",
             "Screenshot": [
