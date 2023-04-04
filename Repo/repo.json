@@ -272,7 +272,9 @@
             "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
             "Category": "LockScreen",
             "Caption": "Change the Faceid icon",
-            "Screenshot": null,
+            "Screenshot": [
+                "https://video.twimg.com/ext_tw_video/1612661637181476864/pu/vid/720x960/D20iHiIvKVNhMDrc.mp4?tag=12"
+            ],
 			"Releases": [
               {
                   "Version": "1.0",
