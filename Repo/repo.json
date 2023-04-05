@@ -47,7 +47,7 @@
                 ]
             },
             "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/lsui.png",
-            "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
+            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
             "Category": "LS UI",
             "Caption": "Change camera and flash icon",
             "Screenshot": [
@@ -75,7 +75,7 @@
                 ]
             },
             "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/font.png",
-            "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
+            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
             "Category": "Font",
             "Caption": "Change clock font on ios 16",
 			"MinIOSVersion": "16.0",
@@ -105,7 +105,7 @@
                 ]
             },
             "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/avatarradar.jpg",
-            "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
+            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
             "Category": "Settings",
             "Caption": "Show internal on settings",
             "Screenshot": [
@@ -133,7 +133,7 @@
                 ]
             },
             "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/font.png",
-            "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
+            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
             "Category": "Font",
             "Caption": "Change clock font on ios 15",
 			"MinIOSVersion": "15.0",
@@ -189,7 +189,7 @@
                 ]
             },
             "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/lsui.png",
-            "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
+            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
             "Category": "LS UI",
             "Caption": "Change camera and flash icon",
             "Screenshot": [
@@ -217,7 +217,7 @@
                 ]
             },
             "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/hidedock.png",
-            "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
+            "HeaderImage": "hhttps://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
             "Category": "Settings",
             "Caption": "Hide the Dock",
             "Screenshot": null,
@@ -243,7 +243,7 @@
                 ]
             },
             "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/avatarradar.jpg",
-            "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
+            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
             "Category": "Settings",
             "Caption": "Enable Supervise mode on iphone, i tested on both IOS 16.3.1 (doesn't support MDC mining, but it worked) ",
             "Screenshot": null,
@@ -269,7 +269,7 @@
                 ]
             },
             "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/faceidlock.png",
-            "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
+            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
             "Category": "LockScreen",
             "Caption": "Change the Faceid icon",
             "Screenshot": [
@@ -297,7 +297,7 @@
                 ]
             },
             "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/other.png",
-            "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
+            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
             "Category": "Icon",
             "Caption": "Change your clock icon",
             "Screenshot": [
@@ -325,7 +325,7 @@
                 ]
             },
             "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/avatarradar.jpg",
-            "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
+            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
             "Category": "Settings",
             "Caption": "Instructions\n-after downloading the tweak. turn it on and reboot (no respring )\n - after reboot. Go back to the misaka app. re-enable the tweak again. going to wifi settings should show \n - then you can apply other tweaks and respring normally \n (haven't tested on cert, works fine on trollstore, altstore, sidestore )",
 			"MinIOSVersion": "15.0",
@@ -355,7 +355,7 @@
                 ]
             },
             "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/lsui.png",
-            "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
+            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
             "Category": "LS UI",
             "Caption": "Change camera and flash icon",
             "Screenshot": [
@@ -383,7 +383,7 @@
                 ]
             },
             "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/font.png",
-            "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
+            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
             "Category": "Font",
             "Caption": "Corporative Sans Alt by @Alexman1979",
             "Screenshot": [
