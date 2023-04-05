@@ -369,6 +369,34 @@
               }
             ],
             "PackageID": "com.yangjiii.samsungoldlsui"
+        },
+		{
+            "Name": "Font Corporative Sans Alt 85%",
+            "Description": "Change your system font",
+            "Author": {
+                "Label": "YangJiii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/font.png",
+            "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
+            "Category": "Font",
+            "Caption": "Corporative Sans Alt by @Alexman1979",
+            "Screenshot": [
+                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/corporativefont.jpg"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.fontcorporative.misaka",
+                  "Description": "Change your system font"
+              }
+            ],
+            "PackageID": "com.yangjiii.fontcorporative"
         }
 		
 		
