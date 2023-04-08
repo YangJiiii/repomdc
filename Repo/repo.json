@@ -425,6 +425,34 @@
               }
             ],
             "PackageID": "com.yangjiii.icecream"
+        },
+		{
+            "Name": "LS UI OneUI",
+            "Description": "Change camera and flash icon",
+            "Author": {
+                "Label": "YangJiii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/lsui.png",
+            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
+            "Category": "LS UI",
+            "Caption": "Change camera and flash icon",
+            "Screenshot": [
+                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/oneuils.jpg"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.oneuilsui.misaka",
+                  "Description": "Change camera and flash icon"
+              }
+            ],
+            "PackageID": "com.yangjiii.oneuilsui"
         }
 		
 		
