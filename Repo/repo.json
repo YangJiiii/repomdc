@@ -502,9 +502,9 @@
             "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/other.png",
             "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
             "Category": "Settings",
-            "Caption": "Change control center icon",
+            "Caption": "hide folder background to transparent",
             "Screenshot": [
-                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/hideblurfolder.jpg""
+                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/hideblurfolder.jpg"
             ],
 			"Releases": [
               {
