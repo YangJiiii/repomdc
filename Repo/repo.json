@@ -501,9 +501,11 @@
             },
             "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/other.png",
             "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
-            "Category": "CC UI",
+            "Category": "Settings",
             "Caption": "Change control center icon",
-            "Screenshot": null
+            "Screenshot": [
+                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/hideblurfolder.jpg""
+            ],
 			"Releases": [
               {
                   "Version": "1.0",
