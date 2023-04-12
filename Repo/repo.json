@@ -478,9 +478,40 @@
                   "Version": "1.0",
                   "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.plampyuicc.misaka",
                   "Description": "Change camera and flash icon"
+              },
+			   {
+                  "Version": "1.1",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.plampyuiccv1.1.misaka",
+                  "Description": "white background fix"
               }
             ],
             "PackageID": "com.yangjiii.plampyuicc"
+        },
+		{
+            "Name": "Hide Blur Folder",
+            "Description": "hide folder background to transparent",
+            "Author": {
+                "Label": "YangJiii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/other.png",
+            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
+            "Category": "CC UI",
+            "Caption": "Change control center icon",
+            "Screenshot": null
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.hideblurfolder.misaka",
+                  "Description": "hide folder background to transparent"
+              }
+            ],
+            "PackageID": "com.yangjiii.hideblurfolder"
         }
 		
 		
