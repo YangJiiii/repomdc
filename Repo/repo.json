@@ -453,6 +453,34 @@
               }
             ],
             "PackageID": "com.yangjiii.oneuilsui"
+        },
+		{
+            "Name": "Plampy UI Control Center",
+            "Description": "Change control center icon",
+            "Author": {
+                "Label": "YangJiii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/plampyavatar.png",
+            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
+            "Category": "CC UI",
+            "Caption": "Change control center icon",
+            "Screenshot": [
+                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/plampyui2.jpg","https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/plampyui1.jpg"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.plampyuicc.misaka",
+                  "Description": "Change camera and flash icon"
+              }
+            ],
+            "PackageID": "com.yangjiii.plampyuicc"
         }
 		
 		
