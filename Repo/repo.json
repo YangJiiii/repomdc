@@ -4,7 +4,10 @@
     "RepositoryAuthor": "YangJiii",
     "RepositoryIcon": "https://github.com/YangJiiii/repomdc/raw/main/Images/Avatar/Avatar.jpg",
     "RepositoryWebsite": "https://github.com/YangJiiii/repomdc/",
-    "DefaultHeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
+	"Default":{
+        "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
+        "ViewCount": true
+    },
     "RepositoryContents": [
         {
             "Name": "Font Apple Symbols",
