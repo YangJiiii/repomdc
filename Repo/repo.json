@@ -486,6 +486,11 @@
                   "Version": "1.1",
                   "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.plampyuiccv1.1.misaka",
                   "Description": "white background fix"
+              },
+			  {
+                  "Version": "1.2",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.plampyuiccv1.2.misaka",
+                  "Description": "- reduce icon size\n- change mobile data and wifi icons\n- fix wifi icon getting bigger when holding on wifi icon"
               }
             ],
             "PackageID": "com.yangjiii.plampyuicc"
