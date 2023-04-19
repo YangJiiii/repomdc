@@ -491,6 +491,11 @@
                   "Version": "1.2",
                   "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.plampyuiccv1.2.misaka",
                   "Description": "- reduce icon size\n- change mobile data and wifi icons\n- fix wifi icon getting bigger when holding on wifi icon"
+              },
+			  			  {
+                  "Version": "1.3",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.plampyuiccv1.3.misaka",
+                  "Description": "restore mobile data icon to satellite \n- update add wifi icon in hold wifi button"
               }
             ],
             "PackageID": "com.yangjiii.plampyuicc"
