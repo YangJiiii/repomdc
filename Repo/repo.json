@@ -220,7 +220,7 @@
                 ]
             },
             "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/hidedock.png",
-            "HeaderImage": "hhttps://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
+            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
             "Category": "Settings",
             "Caption": "Hide the Dock",
             "Screenshot": null,
