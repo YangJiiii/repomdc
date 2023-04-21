@@ -555,6 +555,36 @@
               }
             ],
             "PackageID": "com.yangjiii.plampylsui"
+        },
+		{
+            "Name": "Font Clock Moscow Retro IOS15",
+            "Description": "Change clock font on ios 15",
+            "Author": {
+                "Label": "YangJiii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/font.png",
+            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
+            "Category": "Font",
+            "Caption": "Change clock font on ios 15",
+			"MinIOSVersion": "15.0",
+            "MaxIOSVersion": "15.7.1",
+            "Screenshot": [
+                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/moscowretro.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.fontclock15moscowretro.misaka",
+                  "Description": "Change clock font on ios 15"
+              }
+            ],
+            "PackageID": "com.yangjiii.fontclock15moscowretro"
         }
 		
 		
