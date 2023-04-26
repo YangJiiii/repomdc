@@ -590,6 +590,40 @@
               }
             ],
             "PackageID": "com.yangjiii.fontclock15moscowretro"
+        },
+		{
+            "Name": "Text Search",
+            "Description": "edit the word Search",
+            "Author": {
+                "Label": "YangJiii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    },
+					{
+                        "Label": "tdquang",
+                        "Link": "https://twitter.com/tdquangg"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/avatarradar.jpg",
+            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
+            "Category": "Settings",
+            "Caption": "edit the word Search",
+			"MinIOSVersion": "16.0",
+            "MaxIOSVersion": "16.1.2",
+            "Screenshot": [
+                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/spotlight.jpg"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.textsearch.misaka",
+                  "Description": "edit the word Search"
+              }
+            ],
+            "PackageID": "com.yangjiii.textsearch"
         }
 		
 		
