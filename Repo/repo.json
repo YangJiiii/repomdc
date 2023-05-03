@@ -1,6 +1,6 @@
 {
     "RepositoryName": "YangJiii Repo's",
-    "RepositoryDescription": "YangJiii Repo's For You 🇻🇳 ",
+    "RepositoryDescription": "YangJiii Repo's For You",
     "RepositoryAuthor": "YangJiii",
     "RepositoryIcon": "https://github.com/YangJiiii/repomdc/raw/main/Images/Avatar/Avatar.jpg",
     "RepositoryWebsite": "https://github.com/YangJiiii/repomdc/",
@@ -501,6 +501,11 @@
                   "Version": "1.4",
                   "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.plampyuiccv1.4.misaka",
                   "Description": "Fix bug"
+              },
+			  	{
+                  "Version": "1.5",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.plampyuiccv1.5.misaka",
+                  "Description": "new icon update \n rotation lock\n sound on - off \n flashlight \n calculator \n camera \n alarm \n QRcode \n wallet \n light dark \n screen recording"
               }
             ],
             "PackageID": "com.yangjiii.plampyuicc"
