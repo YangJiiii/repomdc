@@ -461,11 +461,15 @@
             "Name": "Plampy UI Control Center",
             "Description": "Change control center icon",
             "Author": {
-                "Label": "YangJiii",
+                "Label": "YangJiii - しまりん",
                 "Links": [
                     {
                         "Label": "YangJiii",
                         "Link": "https://twitter.com/duongduong0908"
+                    },
+					{
+                        "Label": "しまりん",
+                        "Link": "https://twitter.com/straight_tamago"
                     }
                 ]
             },
