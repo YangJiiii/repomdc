@@ -633,6 +633,36 @@
               }
             ],
             "PackageID": "com.yangjiii.textsearch"
+        },
+		{
+            "Name": "Messenger Sounds ( Beta )",
+            "Description": "Change Messenger app message sound",
+            "Author": {
+                "Label": "YangJiii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/mess.png",
+            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/messbanner.png",
+            "Category": "Settings",
+            "Caption": "Change Messenger app message sound",
+			"MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Screenshot": [
+                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/messsounds.jpg"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0 ( Beta )",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.messengersoundsbeta1.0.misaka",
+                  "Description": "Change Messenger app message sound"
+              }
+            ],
+            "PackageID": "com.yangjiii.messengersoundsbeta1.0"
         }
 		
 		
