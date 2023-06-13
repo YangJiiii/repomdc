@@ -510,6 +510,11 @@
                   "Version": "1.5",
                   "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.plampyuiccv1.5.misaka",
                   "Description": "new icon update \n rotation lock\n sound on - off \n flashlight \n calculator \n camera \n alarm \n QRcode \n wallet \n light dark \n screen recording"
+              },
+			  	{
+                  "Version": "1.6",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.plampyuiccv1.6.misaka",
+                  "Description": "updated low power mode icon"
               }
             ],
             "PackageID": "com.yangjiii.plampyuicc"
