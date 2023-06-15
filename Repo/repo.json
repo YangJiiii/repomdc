@@ -635,6 +635,11 @@
                   "Version": "1.0",
                   "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.textsearch.misaka",
                   "Description": "edit the word Search"
+              },
+			  {
+                  "Version": "1.1",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.textsearch1.0.misaka",
+                  "Description": "Fix Bug"
               }
             ],
             "PackageID": "com.yangjiii.textsearch"
@@ -667,7 +672,37 @@
                   "Description": "Change Messenger app message sound"
               }
             ],
-            "PackageID": "com.yangjiii.messengersoundsbeta1.0"
+            "PackageID": "com.yangjiii.messengersoundsbeta"
+        },
+		{
+            "Name": "Keycaps TXT",
+            "Description": "change keyboard font",
+            "Author": {
+                "Label": "YangJiii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/mess.png",
+            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/messbanner.png",
+            "Category": "Settings",
+            "Caption": "change keyboard font",
+			"MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Screenshot": [
+                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/keycaps.jpg"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0 ( Beta )",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.keycaps.misaka",
+                  "Description": "change keyboard font"
+              }
+            ],
+            "PackageID": "com.yangjiii.keycaps"
         }
 		
 		
