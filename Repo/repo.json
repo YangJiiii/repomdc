@@ -686,8 +686,8 @@
                     }
                 ]
             },
-            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/mess.png",
-            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/messbanner.png",
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/keycaps.png",
+            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
             "Category": "Settings",
             "Caption": "change keyboard font",
 			"MinIOSVersion": "15.0",
