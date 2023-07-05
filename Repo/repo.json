@@ -703,6 +703,34 @@
               }
             ],
             "PackageID": "com.yangjiii.keycaps"
+        },
+		{
+            "Name": "LS UI Plampy 2.0",
+            "Description": "Change camera and flash icon",
+            "Author": {
+                "Label": "YangJiii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/lsui.png",
+            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
+            "Category": "LS UI",
+            "Caption": "Change camera and flash icon",
+            "Screenshot": [
+                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/plampyoff1.jpg","https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/plampyon1.jpg"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.plampylsui2.0.misaka",
+                  "Description": "Change camera and flash icon"
+              }
+            ],
+            "PackageID": "com.yangjiii.plampylsui2.0"
         }
 		
 		
