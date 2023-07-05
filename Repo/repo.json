@@ -461,7 +461,7 @@
             "Name": "Plampy UI Control Center",
             "Description": "Change control center icon",
             "Author": {
-                "Label": "YangJiii - しまりん",
+                "Label": "YangJiii - しまりん - htrowii",
                 "Links": [
                     {
                         "Label": "YangJiii",
@@ -470,6 +470,10 @@
 					{
                         "Label": "しまりん",
                         "Link": "https://twitter.com/straight_tamago"
+                    },
+					{
+                        "Label": "htrowii",
+                        "Link": "https://twitter.com/htrowii"
                     }
                 ]
             },
@@ -478,7 +482,7 @@
             "Category": "CC UI",
             "Caption": "Change control center icon",
             "Screenshot": [
-                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/plampyui2.jpg","https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/plampyui1.jpg"
+                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/plampyui2.jpg"
             ],
 			"Releases": [
               {
@@ -515,6 +519,11 @@
                   "Version": "1.6",
                   "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.plampyuiccv1.6.misaka",
                   "Description": "updated low power mode icon"
+              },
+			  {
+                  "Version": "2.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.plampyuiccv2.0.misaka",
+                  "Description": "new version. new icon update"
               }
             ],
             "PackageID": "com.yangjiii.plampyuicc"
