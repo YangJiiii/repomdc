@@ -529,6 +529,11 @@
                   "Version": "2.1",
                   "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.plampyuiccv2.1.misaka",
                   "Description": "add effects. change a few pictures"
+              },
+			  {
+                  "Version": "2.2",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.plampyuiccv2.2.misaka",
+                  "Description": "- resize flashlight icon \n- change sound icon"
               }
             ],
             "PackageID": "com.yangjiii.plampyuicc"
