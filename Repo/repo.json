@@ -534,6 +534,11 @@
                   "Version": "2.2",
                   "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.plampyuiccv2.2.misaka",
                   "Description": "- resize flashlight icon \n- change sound icon"
+              },
+			  {
+                  "Version": "2.3",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.plampyuiccv2.3.misaka",
+                  "Description": "- change mute icon \n- add icon shazam"
               }
             ],
             "PackageID": "com.yangjiii.plampyuicc"
