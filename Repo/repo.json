@@ -544,6 +544,11 @@
                   "Version": "2.5",
                   "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.plampyuiccv2.5.misaka",
                   "Description": "- Update more icons"
+              },
+              {
+                  "Version": "Final",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.plampyuiccfinal.misaka",
+                  "Description": "Final Plampy UI"
               }
             ],
             "PackageID": "com.yangjiii.plampyuicc"
