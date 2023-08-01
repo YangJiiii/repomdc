@@ -760,6 +760,36 @@
               }
             ],
             "PackageID": "com.yangjiii.plampylsui2.0"
+        },
+		{
+            "Name": "Plampy Settings",
+            "Description": "change settings icon",
+            "Author": {
+                "Label": "YangJiii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/avatarradar.jpg",
+            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
+            "Category": "Settings",
+            "Caption": "change settings icon",
+			"MinIOSVersion": "16.0",
+            "MaxIOSVersion": "16.1.2",
+            "Screenshot": [
+                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/plampysettings.jpg"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.plampysettings.misaka",
+                  "Description": "- Wallet icon, FaceID will default \n- On IOS 15. VPN icon shows well. IOS16 default display"
+              }
+            ],
+            "PackageID": "com.yangjiii.textsearch"
         }
 		
 		
