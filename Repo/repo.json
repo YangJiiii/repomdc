@@ -782,7 +782,7 @@
             "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
             "Category": "Settings",
             "Caption": "change settings icon",
-			"MinIOSVersion": "16.0",
+			"MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
             "Screenshot": [
                 "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/plampysettings.jpg"
