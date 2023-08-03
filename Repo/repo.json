@@ -81,7 +81,7 @@
             "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
             "Category": "Clock",
             "Caption": "Change clock font on ios 16",
-			"MinIOSVersion": "16.0",
+		"MinIOSVersion": "16.0",
             "MaxIOSVersion": "16.1.2",
             "Screenshot": [
                 "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/fontclockgroup1.jpg"
@@ -481,7 +481,7 @@
             "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
             "Category": "Control Center",
             "Caption": "Change control center icon",
-            "MinIOSVersion": "15.0",
+		"MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
             "Screenshot": [
                 "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/plampyui2.jpg"
