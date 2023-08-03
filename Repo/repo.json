@@ -481,8 +481,8 @@
             "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
             "Category": "Control Center",
             "Caption": "Change control center icon",
-		"MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
+		"MinIOSVersion": "1",
+            "MaxIOSVersion": "999",
             "Screenshot": [
                 "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/plampyui2.jpg"
             ],
