@@ -551,6 +551,11 @@
                   "Version": "Final",
                   "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.plampyuiccfinal.misaka",
                   "Description": "Final Plampy UI"
+              },
+              {
+                  "Version": "Hot Fix",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.plampyuiccfinalfix.misaka",
+                  "Description": "Hot Fix"
               }
             ],
             "PackageID": "com.yangjiii.plampyuicc"
@@ -785,7 +790,7 @@
             "Category": "Settings",
             "Caption": "change settings icon",
 			"MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.8",
+            "MaxIOSVersion": "16.1.2",
             "Screenshot": [
                 "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/plampysettings.jpg"
             ],
