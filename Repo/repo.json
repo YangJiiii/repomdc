@@ -814,7 +814,7 @@
             "HeaderImage": "https://news.khangz.com/wp-content/uploads/2022/09/dynamic-island-la-gi-1.png",
             "Category": "Settings",
             "Caption": "Open Dynamic Island",
-            "MinIOSVersion": "15.0",
+            "MinIOSVersion": "16.0",
             "MaxIOSVersion": "16.8",
             "Screenshot": [
                 "https://hoanghamobile.com/tin-tuc/wp-content/uploads/2022/11/Cach-tat-chuyen-dong-cua-Dynamic-Island-tren-iPhone.jpg"
