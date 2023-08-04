@@ -797,6 +797,36 @@
               }
             ],
             "PackageID": "com.yangjiii.plampysettings"
+        },
+        {
+            "Name": "Dynamic Island",
+            "Description": "Open Dynamic Island",
+            "Author": {
+                "Label": "YangJiii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/dynamic.png",
+            "HeaderImage": "https://news.khangz.com/wp-content/uploads/2022/09/dynamic-island-la-gi-1.png",
+            "Category": "Settings",
+            "Caption": "Open Dynamic Island",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.7",
+            "Screenshot": [
+                "https://hoanghamobile.com/tin-tuc/wp-content/uploads/2022/11/Cach-tat-chuyen-dong-cua-Dynamic-Island-tren-iPhone.jpg"
+            ],
+            "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.dynamicisland.misaka",
+                  "Description": "Open Dynamic Island"
+              }
+            ],
+            "PackageID": "com.yangjiii.dynamicisland"
         }
 		
 		
