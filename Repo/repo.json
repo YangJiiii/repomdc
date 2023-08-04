@@ -82,7 +82,7 @@
             "Category": "Clock",
             "Caption": "Change clock font on ios 16",
 		"MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.1.2",
+            "MaxIOSVersion": "16.8",
             "Screenshot": [
                 "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/fontclockgroup1.jpg"
             ],
@@ -662,7 +662,7 @@
             "Category": "Settings",
             "Caption": "edit the word Search",
 			"MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.1.2",
+            "MaxIOSVersion": "16.8",
             "Screenshot": [
                 "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/spotlight.jpg"
             ],
@@ -697,7 +697,7 @@
             "Category": "Settings",
             "Caption": "Change Messenger app message sound",
 			"MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
+            "MaxIOSVersion": "16.8",
             "Screenshot": [
                 "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/messsounds.jpg"
             ],
@@ -727,7 +727,7 @@
             "Category": "Settings",
             "Caption": "change keyboard font",
 			"MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
+            "MaxIOSVersion": "16.8",
             "Screenshot": [
                 "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/keycaps.jpg"
             ],
@@ -785,7 +785,7 @@
             "Category": "Settings",
             "Caption": "change settings icon",
 			"MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
+            "MaxIOSVersion": "16.8",
             "Screenshot": [
                 "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/plampysettings.jpg"
             ],
