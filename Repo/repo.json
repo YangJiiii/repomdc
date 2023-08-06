@@ -790,7 +790,7 @@
             "Category": "Settings",
             "Caption": "change settings icon",
 			"MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
+            "MaxIOSVersion": "17",
             "Screenshot": [
                 "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/plampysettings.jpg"
             ],
@@ -799,6 +799,11 @@
                   "Version": "1.0",
                   "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.plampysettings.misaka",
                   "Description": "- Wallet icon, FaceID will default \n- On IOS 15. VPN icon shows well. IOS16 default display"
+              },
+			  {
+                  "Version": "2.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.plampysettings2.0.misaka",
+                  "Description": "Fix IOS 15 - KFD self check"
               }
             ],
             "PackageID": "com.yangjiii.plampysettings"
