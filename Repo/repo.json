@@ -809,8 +809,8 @@
             "PackageID": "com.yangjiii.plampysettings"
         },
         {
-            "Name": "Dynamic Island",
-            "Description": "Open Dynamic Island",
+            "Name": "Sizei",
+            "Description": "Enable Dynamic Island and Gestures",
             "Author": {
                 "Label": "YangJiii",
                 "Links": [
@@ -820,10 +820,10 @@
                     }
                 ]
             },
-            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/dynamic.png",
-            "HeaderImage": "https://news.khangz.com/wp-content/uploads/2022/09/dynamic-island-la-gi-1.png",
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/sizei.png",
+            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
             "Category": "Settings",
-            "Caption": "Attention\n- iPhone XR and iPhone 11 will have a red error (radar) please do not use",
+            "Caption": "- iPhone XR and iPhone 11 are not supported (radar warning)\n - Dynamic Island (Choose iPhone 14 Pro or iPhone 14 Promax)\n- X Gestures (Select iPhone X or iPhone XS)",
             "MinIOSVersion": "16.0",
             "MaxIOSVersion": "16.8",
             "Screenshot": [
@@ -833,7 +833,12 @@
               {
                   "Version": "1.0",
                   "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.dynamicisland.misaka",
-                  "Description": "Open Dynamic Island"
+                  "Description": "Enable Dynamic Island and Gestures"
+              },
+			  {
+                  "Version": "2.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.dynamicisland2.0.misaka",
+                  "Description": "Enable Dynamic Island and Gestures"
               }
             ],
             "PackageID": "com.yangjiii.dynamicisland",
