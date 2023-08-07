@@ -810,7 +810,7 @@
         },
         {
             "Name": "Sizei",
-            "Description": "Enable Dynamic Island and Gestures",
+            "Description": "Enable Dynamic Island and Gestures X",
             "Author": {
                 "Label": "YangJiii",
                 "Links": [
@@ -833,12 +833,12 @@
               {
                   "Version": "1.0",
                   "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.dynamicisland.misaka",
-                  "Description": "Enable Dynamic Island and Gestures"
+                  "Description": "Enable Dynamic Island and Gestures X"
               },
 			  {
                   "Version": "2.0",
                   "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.dynamicisland2.0.misaka",
-                  "Description": "Enable Dynamic Island and Gestures"
+                  "Description": "Enable Dynamic Island and Gestures X"
               }
             ],
             "PackageID": "com.yangjiii.dynamicisland",
