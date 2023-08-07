@@ -839,6 +839,11 @@
                   "Version": "2.0",
                   "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.dynamicisland2.0.misaka",
                   "Description": "Enable Dynamic Island and Gestures X"
+              },
+			  {
+                  "Version": "2.1",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.dynamicisland2.1.misaka",
+                  "Description": "Enable Dynamic Island and Gestures X - Fix"
               }
             ],
             "PackageID": "com.yangjiii.dynamicisland",
