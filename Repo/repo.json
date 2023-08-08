@@ -82,7 +82,7 @@
             "Category": "Clock",
             "Caption": "Change clock font on ios 16",
 		"MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.1.2",
+            "MaxIOSVersion": "16.7",
             "Screenshot": [
                 "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/fontclockgroup1.jpg"
             ],
@@ -790,7 +790,7 @@
             "Category": "Settings",
             "Caption": "change settings icon",
 			"MinIOSVersion": "15.0",
-            "MaxIOSVersion": "17",
+            "MaxIOSVersion": "16.1.2",
             "Screenshot": [
                 "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/plampysettings.jpg"
             ],
