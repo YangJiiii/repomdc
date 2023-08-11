@@ -458,7 +458,7 @@
             "PackageID": "com.yangjiii.oneuilsui"
         },
 		{
-            "Name": "Plampy UI Control Center",
+            "Name": "Plampy UI",
             "Description": "Change control center icon",
             "Author": {
                 "Label": "YangJiii - しまりん - htrowii",
@@ -482,7 +482,7 @@
             "Category": "Control Center",
             "Caption": "Change control center icon",
 		"MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
+            "MaxIOSVersion": "16.8",
             "Screenshot": [
                 "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/plampyui2.jpg"
             ],
@@ -556,6 +556,11 @@
                   "Version": "Hot Fix",
                   "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.plampyuiccfinalfix.misaka",
                   "Description": "Hot Fix"
+              },
+              {
+                  "Version": "Fix",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.plampyuiccfinal2.misaka",
+                  "Description": "Fix Shazam icon KFD"
               }
             ],
             "PackageID": "com.yangjiii.plampyuicc"
