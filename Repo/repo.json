@@ -851,7 +851,7 @@
                   "Description": "Enable Dynamic Island and Gestures X - Fix"
               }
             ],
-			"MDC": "Support"
+			"Support": "MDC-KFD"
             "PackageID": "com.yangjiii.dynamicisland",
 			"VarLess": true
         }
