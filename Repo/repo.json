@@ -25,6 +25,8 @@
             "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
             "Category": "Other",
             "Caption": "Fonts Apple Symbols. change character support MDC devices",
+			"MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.8",
             "Screenshot": [
                 "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/symbols.jpg"
             ],
@@ -53,6 +55,8 @@
             "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
             "Category": "Lock Screen",
             "Caption": "Change camera and flash icon",
+			"MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.8",
             "Screenshot": [
                 "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/lsuiyangjiii1.jpg"
             ],
@@ -82,7 +86,7 @@
             "Category": "Clock",
             "Caption": "Change clock font on ios 16",
 		"MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.7",
+            "MaxIOSVersion": "16.8",
             "Screenshot": [
                 "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/fontclockgroup1.jpg"
             ],
@@ -167,6 +171,8 @@
             "HeaderImage": "https://i.pinimg.com/originals/5a/b0/67/5ab06768b12e2a87a6264bd385ed5dd3.gif",
             "Category": "Passcode",
             "Caption": "Change your passcode",
+			"MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.8",
             "Screenshot": [
                 "https://cdn.discordapp.com/attachments/1076484358774472777/1076484359676243968/IMG_0808.png"
             ],
@@ -195,6 +201,8 @@
             "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
             "Category": "Lock Screen",
             "Caption": "Change camera and flash icon",
+			"MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.8",
             "Screenshot": [
                 "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/lsuinayan.jpg"
             ],
@@ -223,6 +231,8 @@
             "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
             "Category": "Settings",
             "Caption": "Hide the Dock",
+			"MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.8",
             "Screenshot": null,
 			"Releases": [
               {
@@ -249,6 +259,8 @@
             "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
             "Category": "Settings",
             "Caption": "Enable Supervise mode on iphone, i tested on both IOS 16.3.1 (doesn't support MDC mining, but it worked) ",
+			"MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.8",
             "Screenshot": null,
 			"Releases": [
               {
@@ -275,6 +287,8 @@
             "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
             "Category": "Lock Screen",
             "Caption": "Change the Faceid icon",
+			"MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.8",
             "Screenshot": [
                 "https://video.twimg.com/ext_tw_video/1612661637181476864/pu/vid/720x960/D20iHiIvKVNhMDrc.mp4?tag=12"
             ],
@@ -303,6 +317,8 @@
             "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
             "Category": "Themes",
             "Caption": "Change your clock icon",
+			"MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.8",
             "Screenshot": [
                 "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/clockiconbigsur.jpg"
             ],
@@ -361,6 +377,8 @@
             "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
             "Category": "Lock Screen",
             "Caption": "Change camera and flash icon",
+			"MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.8",
             "Screenshot": [
                 "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/samsungoldlsui.jpg"
             ],
@@ -389,6 +407,8 @@
             "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
             "Category": "Font",
             "Caption": "Corporative Sans Alt by @Alexman1979",
+			"MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.8",
             "Screenshot": [
                 "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/corporativefont.jpg"
             ],
@@ -417,6 +437,8 @@
             "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
             "Category": "Lock Screen",
             "Caption": "Change the Faceid icon",
+			"MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.8",
             "Screenshot": [
                 "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/icecream1.jpg","https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/icecream2.jpg"
             ],
@@ -445,6 +467,8 @@
             "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
             "Category": "Lock Screen",
             "Caption": "Change camera and flash icon",
+			"MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.8",
             "Screenshot": [
                 "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/oneuils.jpg"
             ],
@@ -481,7 +505,7 @@
             "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
             "Category": "Control Center",
             "Caption": "Change control center icon",
-		"MinIOSVersion": "15.0",
+			"MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.8",
             "Screenshot": [
                 "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/plampyui2.jpg"
@@ -581,6 +605,8 @@
             "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
             "Category": "Settings",
             "Caption": "hide folder background to transparent",
+			"MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.8",
             "Screenshot": [
                 "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/hideblurfolder.jpg"
             ],
@@ -609,6 +635,8 @@
             "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
             "Category": "Lock Screen",
             "Caption": "Change camera and flash icon",
+			"MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.8",
             "Screenshot": [
                 "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/plampyoff.jpg","https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/plampyon.jpg"
             ],
@@ -672,7 +700,7 @@
             "Category": "Settings",
             "Caption": "edit the word Search",
 			"MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.1.2",
+            "MaxIOSVersion": "16.8",
             "Screenshot": [
                 "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/spotlight.jpg"
             ],
@@ -737,7 +765,7 @@
             "Category": "Settings",
             "Caption": "change keyboard font",
 			"MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
+            "MaxIOSVersion": "16.8",
             "Screenshot": [
                 "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/keycaps.jpg"
             ],
@@ -766,6 +794,8 @@
             "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
             "Category": "Lock Screen",
             "Caption": "Change camera and flash icon",
+			"MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.8",
             "Screenshot": [
                 "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/plampyoff1.jpg","https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/plampyon1.jpg"
             ],
@@ -816,7 +846,6 @@
         {
             "Name": "Sizei",
             "Description": "Enable Dynamic Island and Gestures X",
-			"Support": "MDC",
             "Author": {
                 "Label": "YangJiii",
                 "Links": [
