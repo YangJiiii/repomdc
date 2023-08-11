@@ -816,6 +816,7 @@
         {
             "Name": "Sizei",
             "Description": "Enable Dynamic Island and Gestures X",
+			"Support": "MDC",
             "Author": {
                 "Label": "YangJiii",
                 "Links": [
