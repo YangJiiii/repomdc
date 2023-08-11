@@ -115,6 +115,8 @@
             "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
             "Category": "Settings",
             "Caption": "Show internal on settings",
+			"MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
             "Screenshot": [
                 "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/radar.jpg"
             ],
