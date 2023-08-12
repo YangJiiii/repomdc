@@ -844,6 +844,7 @@
               }
             ],
             "PackageID": "com.yangjiii.plampysettings"
+			"VarLess": true
         },
         {
             "Name": "Sizei",
