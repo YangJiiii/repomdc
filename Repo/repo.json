@@ -843,7 +843,7 @@
                   "Description": "Fix IOS 15 - KFD self check"
               }
             ],
-            "PackageID": "com.yangjiii.plampysettings"
+            "PackageID": "com.yangjiii.plampysettings",
 			"VarLess": true
         },
         {
