@@ -886,6 +886,34 @@
             ],
             "PackageID": "com.yangjiii.dynamicisland",
 			"VarLess": true
+        },
+		{
+            "Name": "Lock HandSomeDog",
+            "Description": "Change the Faceid icon",
+            "Author": {
+                "Label": "YangJiii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/handsomedog.gif",
+            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
+            "Category": "Lock Screen",
+            "Caption": "Change the Faceid icon\n Source: China",
+			"MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.8",
+            "Screenshot": null,
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.handsomedoglock.misaka",
+                  "Description": "Change the Faceid icon"
+              }
+            ],
+            "PackageID": "com.yangjiii.handsomedoglock"
         }
 		
 		
