@@ -863,7 +863,7 @@
             "Category": "Settings",
             "Caption": "- iPhone XR and iPhone 11 are not supported (radar warning)\n - Dynamic Island (Choose iPhone 14 Pro or iPhone 14 Promax)\n- X Gestures (Select iPhone X or iPhone XS)",
             "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.1.2",
+            "MaxIOSVersion": "16.8",
             "Screenshot": [
                 "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/sizei.mp4"
             ],
