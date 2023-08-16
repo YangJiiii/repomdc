@@ -939,7 +939,7 @@
             "Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.fasttoolbox.misaka"
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.fasttoolbox.misaka",
                   "Description": "ToolBox"
               }
             ],
