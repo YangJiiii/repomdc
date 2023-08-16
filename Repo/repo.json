@@ -914,6 +914,36 @@
               }
             ],
             "PackageID": "com.yangjiii.handsomedoglock"
+        },
+        {
+            "Name": "Fast ToolBox",
+            "Description": "ToolBox",
+            "Author": {
+                "Label": "YangJiii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/toolbox.png",
+            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
+            "Category": "Settings",
+            "Caption": "Function \unSupervised\Show Wifi RSSI\Show Wifi List ( IOS 15 )\nRight - Left UI \nOnly Mute\nHide Low Power Alerts\nCustom Footnote",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.8",
+            "Screenshot": [
+                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/toolbox1.jpg","https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/toolbox2.jpg"
+            ],
+            "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.fasttoolbox.misaka",
+                  "Description": "ToolBox"
+              }
+            ],
+            "PackageID": "com.yangjiii.fasttoolbox"
         }
 		
 		
