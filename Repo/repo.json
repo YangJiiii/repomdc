@@ -863,7 +863,7 @@
             "Category": "Settings",
             "Caption": "- iPhone XR and iPhone 11 are not supported (radar warning)\n - Dynamic Island (Choose iPhone 14 Pro or iPhone 14 Promax)\n- X Gestures (Select iPhone X or iPhone XS)",
             "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.8",
+            "MaxIOSVersion": "16.1.2",
             "Screenshot": [
                 "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/sizei.mp4"
             ],
@@ -930,7 +930,7 @@
             "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/toolbox.png",
             "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
             "Category": "Settings",
-            "Caption": "Function \unSupervised\Show Wifi RSSI\Show Wifi List ( IOS 15 )\nRight - Left UI \nOnly Mute\nHide Low Power Alerts\nCustom Footnote",
+            "Caption": "Function \nSupervised\nShow Wifi RSSI\nShow Wifi List ( IOS 15 )\nRight - Left UI \nOnly Mute\nHide Low Power Alerts\nCustom Footnote",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.8",
             "Screenshot": [
