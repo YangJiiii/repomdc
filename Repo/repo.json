@@ -846,47 +846,6 @@
             "PackageID": "com.yangjiii.plampysettings",
 			"VarLess": true
         },
-        {
-            "Name": "Sizei",
-            "Description": "Enable Dynamic Island and Gestures X",
-            "Author": {
-                "Label": "YangJiii",
-                "Links": [
-                    {
-                        "Label": "YangJiii",
-                        "Link": "https://twitter.com/duongduong0908"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/sizei.png",
-            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
-            "Category": "Settings",
-            "Caption": "- iPhone XR and iPhone 11 are not supported (radar warning)\n - Dynamic Island (Choose iPhone 14 Pro or iPhone 14 Promax)\n- X Gestures (Select iPhone X or iPhone XS)",
-            "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.1.2",
-            "Screenshot": [
-                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/sizei.mp4"
-            ],
-            "Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.dynamicisland.misaka",
-                  "Description": "Enable Dynamic Island and Gestures X"
-              },
-			  {
-                  "Version": "2.0",
-                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.dynamicisland2.0.misaka",
-                  "Description": "Enable Dynamic Island and Gestures X"
-              },
-			  {
-                  "Version": "2.1",
-                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.dynamicisland2.1.misaka",
-                  "Description": "Enable Dynamic Island and Gestures X - Fix"
-              }
-            ],
-            "PackageID": "com.yangjiii.dynamicisland",
-			"VarLess": true
-        },
 		{
             "Name": "Lock HandSomeDog",
             "Description": "Change the Faceid icon",
