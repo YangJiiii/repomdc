@@ -653,7 +653,7 @@
             "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/toolbox.png",
             "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
             "Category": "Settings",
-            "Caption": "After activation. Access ( Settings - General Settings )\nFunction \nSupervised\nShow Wifi RSSI\nShow Wifi List ( IOS 15 )\nRight - Left UI \nDisble Airdrop 10minute\nHide Low Power Alerts\nCustom Footnote",
+            "Caption": "After activation. Access ( Settings - General Settings )",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.8",
             "Screenshot": [
@@ -663,11 +663,6 @@
               {
                   "Version": "1.0",
                   "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.fasttoolbox.misaka",
-                  "Description": "ToolBox"
-              },
-			  {
-                  "Version": "1.1",
-                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.fasttoolbox1.1.misaka",
                   "Description": "ToolBox"
               }
             ],
