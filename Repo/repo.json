@@ -130,34 +130,6 @@
             "PackageID": "com.yangjiii.radar"
         },
 		{
-            "Name": "Font Clock Group 1 ( IOS 15 )",
-            "Description": "Change clock font on ios 15",
-            "Author": {
-                "Label": "YangJiii",
-                "Links": [
-                    {
-                        "Label": "YangJiii",
-                        "Link": "https://twitter.com/duongduong0908"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/font.png",
-            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
-            "Category": "Clock",
-            "Caption": "Change clock font on ios 15",
-			"MinIOSVersion": "15.0",
-            "MaxIOSVersion": "15.7.1",
-            "Screenshot": null,
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.fontclock15.1.0.misaka",
-                  "Description": "Change clock font on ios 15"
-              }
-            ],
-            "PackageID": "com.yangjiii.fontclock15.1.0"
-        },
-		{
             "Name": "Usagi Passcode",
             "Description": "Change your passcode",
             "Author": {
@@ -244,94 +216,6 @@
               }
             ],
             "PackageID": "com.yangjiii.hidedock"
-        },
-		{
-            "Name": "Open Supervise",
-            "Description": "Enable Supervise mode on iphone",
-            "Author": {
-                "Label": "YangJiii",
-                "Links": [
-                    {
-                        "Label": "YangJiii",
-                        "Link": "https://twitter.com/duongduong0908"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/avatarradar.jpg",
-            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
-            "Category": "Settings",
-            "Caption": "Enable Supervise mode on iphone, i tested on both IOS 16.3.1 (doesn't support MDC mining, but it worked) ",
-			"MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.8",
-            "Screenshot": null,
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.supervise.misaka",
-                  "Description": "Enable Supervise mode on iphone"
-              }
-            ],
-            "PackageID": "com.yangjiii.supervise"
-        },
-		{
-            "Name": "Lock Astronaut White ",
-            "Description": "Change the Faceid icon",
-            "Author": {
-                "Label": "YangJiii",
-                "Links": [
-                    {
-                        "Label": "YangJiii",
-                        "Link": "https://twitter.com/duongduong0908"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/faceidlock.png",
-            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
-            "Category": "Lock Screen",
-            "Caption": "Change the Faceid icon",
-			"MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.8",
-            "Screenshot": [
-                "https://video.twimg.com/ext_tw_video/1612661637181476864/pu/vid/720x960/D20iHiIvKVNhMDrc.mp4?tag=12"
-            ],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.astronautwhite.misaka",
-                  "Description": "Change the Faceid icon"
-              }
-            ],
-            "PackageID": "com.yangjiii.astronautwhite"
-        },
-		{
-            "Name": "Big Sur Clock Icon",
-            "Description": "Change your clock icon",
-            "Author": {
-                "Label": "YangJiii",
-                "Links": [
-                    {
-                        "Label": "YangJiii",
-                        "Link": "https://twitter.com/duongduong0908"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/other.png",
-            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
-            "Category": "Themes",
-            "Caption": "Change your clock icon",
-			"MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.8",
-            "Screenshot": [
-                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/clockiconbigsur.jpg"
-            ],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.bigsurclockicon.misaka",
-                  "Description": "Change your clock icon"
-              }
-            ],
-            "PackageID": "com.yangjiii.bigsurclockicon"
         },
 		{
             "Name": "Wifi List",
@@ -422,66 +306,6 @@
               }
             ],
             "PackageID": "com.yangjiii.fontcorporative"
-        },
-		{
-            "Name": "Lock Ice Cream ",
-            "Description": "Change the Faceid icon",
-            "Author": {
-                "Label": "YangJiii",
-                "Links": [
-                    {
-                        "Label": "YangJiii",
-                        "Link": "https://twitter.com/duongduong0908"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/faceidlock.png",
-            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
-            "Category": "Lock Screen",
-            "Caption": "Change the Faceid icon",
-			"MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.8",
-            "Screenshot": [
-                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/icecream1.jpg","https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/icecream2.jpg"
-            ],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.icecream.misaka",
-                  "Description": "Change the Faceid icon"
-              }
-            ],
-            "PackageID": "com.yangjiii.icecream"
-        },
-		{
-            "Name": "LS UI OneUI",
-            "Description": "Change camera and flash icon",
-            "Author": {
-                "Label": "YangJiii",
-                "Links": [
-                    {
-                        "Label": "YangJiii",
-                        "Link": "https://twitter.com/duongduong0908"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/lsui.png",
-            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
-            "Category": "Lock Screen",
-            "Caption": "Change camera and flash icon",
-			"MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.8",
-            "Screenshot": [
-                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/oneuils.jpg"
-            ],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.oneuilsui.misaka",
-                  "Description": "Change camera and flash icon"
-              }
-            ],
-            "PackageID": "com.yangjiii.oneuilsui"
         },
 		{
             "Name": "Plampy UI",
@@ -652,36 +476,6 @@
             "PackageID": "com.yangjiii.plampylsui"
         },
 		{
-            "Name": "Font Clock Moscow Retro IOS15",
-            "Description": "Change clock font on ios 15",
-            "Author": {
-                "Label": "YangJiii",
-                "Links": [
-                    {
-                        "Label": "YangJiii",
-                        "Link": "https://twitter.com/duongduong0908"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/font.png",
-            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
-            "Category": "Font",
-            "Caption": "Change clock font on ios 15",
-			"MinIOSVersion": "15.0",
-            "MaxIOSVersion": "15.7.1",
-            "Screenshot": [
-                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/moscowretro.png"
-            ],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.fontclock15moscowretro.misaka",
-                  "Description": "Change clock font on ios 15"
-              }
-            ],
-            "PackageID": "com.yangjiii.fontclock15moscowretro"
-        },
-		{
             "Name": "Text Search",
             "Description": "edit the word Search",
             "Author": {
@@ -719,36 +513,6 @@
               }
             ],
             "PackageID": "com.yangjiii.textsearch"
-        },
-		{
-            "Name": "Messenger Sounds ( Beta )",
-            "Description": "Change Messenger app message sound",
-            "Author": {
-                "Label": "YangJiii",
-                "Links": [
-                    {
-                        "Label": "YangJiii",
-                        "Link": "https://twitter.com/duongduong0908"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/mess.png",
-            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/messbanner.png",
-            "Category": "Settings",
-            "Caption": "Change Messenger app message sound",
-			"MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
-            "Screenshot": [
-                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/messsounds.jpg"
-            ],
-			"Releases": [
-              {
-                  "Version": "1.0 ( Beta )",
-                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.messengersoundsbeta1.0.misaka",
-                  "Description": "Change Messenger app message sound"
-              }
-            ],
-            "PackageID": "com.yangjiii.messengersoundsbeta"
         },
 		{
             "Name": "Keycaps TXT",
@@ -844,47 +608,6 @@
               }
             ],
             "PackageID": "com.yangjiii.plampysettings",
-			"VarLess": true
-        },
-        {
-            "Name": "Sizei",
-            "Description": "Enable Dynamic Island and Gestures X",
-            "Author": {
-                "Label": "YangJiii",
-                "Links": [
-                    {
-                        "Label": "YangJiii",
-                        "Link": "https://twitter.com/duongduong0908"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/sizei.png",
-            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
-            "Category": "Settings",
-            "Caption": "- iPhone XR and iPhone 11 are not supported (radar warning)\n - Dynamic Island (Choose iPhone 14 Pro or iPhone 14 Promax)\n- X Gestures (Select iPhone X or iPhone XS)",
-            "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.1.2",
-            "Screenshot": [
-                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/sizei.mp4"
-            ],
-            "Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.dynamicisland.misaka",
-                  "Description": "Enable Dynamic Island and Gestures X"
-              },
-			  {
-                  "Version": "2.0",
-                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.dynamicisland2.0.misaka",
-                  "Description": "Enable Dynamic Island and Gestures X"
-              },
-			  {
-                  "Version": "2.1",
-                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.dynamicisland2.1.misaka",
-                  "Description": "Enable Dynamic Island and Gestures X - Fix"
-              }
-            ],
-            "PackageID": "com.yangjiii.dynamicisland",
 			"VarLess": true
         },
 		{
